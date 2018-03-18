@@ -2,7 +2,7 @@
 <?php 
 	// 数据库操作
 	// ojb = {}
-	$a = "this is a";
+	$a = "this is github for test";
 ?>
 <!DOCTYPE html>
 <html>
